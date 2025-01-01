@@ -52,4 +52,4 @@ cd number-validation-game
 open index.html
 
 
-![Game Image](project/gameImage.png)
+![Game Image](gameImage.png)
