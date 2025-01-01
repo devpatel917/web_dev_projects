@@ -50,3 +50,6 @@ bash
 Copy code
 cd number-validation-game
 open index.html
+
+
+![Game Image](project/Screen Shot 2024-12-31 at 6.01.23 PM.png)
