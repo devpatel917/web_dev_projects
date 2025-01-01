@@ -52,4 +52,4 @@ cd number-validation-game
 open index.html
 
 
-![Game Image](project/Screen%20Shot%202024-12-31%20at%206.01.23%20PM.png)
+![Game Image](project/gameImage.png)
